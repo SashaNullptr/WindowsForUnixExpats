@@ -24,6 +24,6 @@ env:Path = "C:\Python37\Scripts";
 
 ## Building Docs and Pushing to GitHub
 
-MkDocs supporting building docs and updating GitHub pages fairly easily. Simply run `mkdocs gh-deploy -r $REMOTE_BRANCH_NAME -b $LOCAL_BRANCH_NAME`
+MkDocs supports building docs and updating GitHub pages fairly easily. Simply run `mkdocs gh-deploy -r $REMOTE_BRANCH_NAME -b $LOCAL_BRANCH_NAME`
 and documentation will be built and uploaded to the `gh-pages` branch for
 this project.
