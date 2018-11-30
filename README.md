@@ -1,5 +1,7 @@
 # Windows For Unix Expats
 
+![Build Status](https://travis-ci.org/SashaNullptr/WindowsForUnixExpats.svg?branch=master)
+
 ## Who Is This Guide For?
 
 Unix developers making the transition into Windows development.
