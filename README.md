@@ -9,7 +9,7 @@ Unix developers making the transition into Windows development.
 * MkDocs
 * Cinder Theme for MkDocs
 
-Assuming you have Chocolatey installed, the following PowerShell script should install all required pre-requistes.
+Assuming you have [Chocolatey](https://chocolatey.org/) installed, the following PowerShell script should install all required pre-requistes.
 
 ```shell
 choco install -y python3
