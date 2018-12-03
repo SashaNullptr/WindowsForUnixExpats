@@ -3,6 +3,7 @@ site_name: Windows For Unix Expats
 nav:
   - Home: index.md
   - Environment:
+    - Shells: environment/shells.md
     - Package Manager: environment/package_manager.md
 
 theme: cinder
