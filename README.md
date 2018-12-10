@@ -1,6 +1,6 @@
 # Windows For Unix Expats
 
-![Build Status](https://travis-ci.org/SashaNullptr/WindowsForUnixExpats.svg?branch=master)
+![Build Status](https://travis-ci.org/SashaNullptr/windows-dev-tools.svg?branch=master)
 
 ## Who Is This Guide For?
 
